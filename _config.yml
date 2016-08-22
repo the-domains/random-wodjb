@@ -1,0 +1,14 @@
+layout_spectrum: 0.6989219200331718
+typography_spectrum: 0.45723818615078926
+color:
+  brandStrength: 0.04222555737942457
+  lightness: 0.37168808560818434
+  saturation: 0.2863419440109283
+  rhythmicContrast: 0.6533728193026036
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Random
